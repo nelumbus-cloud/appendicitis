@@ -2,6 +2,8 @@
 
 This is small project that aims to use apply multimodal deep learning methods for appendicitis diagnosis. See appendicitis.pdf for more detail.
 
+Overleaf Paper Link (https://www.overleaf.com/read/zgdbdhdsncdg#2fd938).
+
 1. **Download the Dataset**  
    Download the dataset from the [Regensburg Pediatric Appendicitis Dataset](https://archive.ics.uci.edu/dataset/938/regensburg+pediatric+appendicitis) and place it in the `pediatric/` folder of this repository.
 
