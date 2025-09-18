@@ -1,6 +1,6 @@
 ## Instructions to Run the Notebook
 
-This is small project that aims to use apply multimodal deep learning methods for appendicitis diagnosis. See appendicitis.pdf for more detail.
+This is small project that aims to use apply multimodal deep learning methods for appendicitis diagnosis. See appendicitis.pdf or overleaf for more detail.
 
 Overleaf Paper Link (https://www.overleaf.com/read/zgdbdhdsncdg#2fd938).
 
